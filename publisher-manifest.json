@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "a81468c53cac48bbcba6838c",
+  "owner": "jxedmwqn",
+  "repo": "page-21f17042ebd88cf1867eeacf",
+  "title": "机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "21f17042ebd88cf1867eeacf",
+      "a": "机场",
+      "b": "",
+      "entity": "机场",
+      "brand": "机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e3ece9254180443db024536d727eae165ee734c423fb96805b2ff4834486eee6",
+      "content": {
+        "keyword1": "机场",
+        "keyword2": "",
+        "primary_entity": "机场",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场自2018年冬夜起步，陪你慢慢走远。酒红与象牙白之间，记录每一次转发、每一次卡顿修复、每一次陪你跨海的温暖。",
+          "AI_DESCRIPTION": "机场自2018年冬夜起步，陪你慢慢走远。酒红与象牙白之间，记录每一次转发、每一次卡顿修复、每一次陪你跨海的温暖。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #f8f3e7;--ink: #2a0a10;--accent: #6b1a26;--accent-dim: #8a3441;--paper: #fcfaf4;--hair: #d9c9b0;--shadow: 0 2px 0 rgba(42,10,16,0.25)}\n* {box-sizing: border-box;margin: 0;padding: 0}\nhtml {background: var(--bg);color: var(--ink)}\nbody {font: 16px/1.75 \"Georgia\", \"Noto Serif SC\", \"Songti SC\", serif;display: flex;min-height: 100vh}\nnav.catalog {position: sticky;top: 0;flex: 0 0 220px;height: 100vh;background: var(--ink);color: #f8f3e7;padding: 32px 0;border-right: 2px solid var(--accent);writing-mode: vertical-rl;overflow-x: auto;scrollbar-width: thin}\nnav.catalog ul {list-style: none;display: flex;gap: 28px;padding: 0 24px}\nnav.catalog a {color: #f8f3e7;text-decoration: none;font: 16px/1 \"Georgia\", \"Songti SC\", serif;letter-spacing: 0.15em;transition: color 0.2s}\nnav.catalog a:hover {color: #e8c89a}\nmain {flex: 1;padding: 64px 56px;max-width: 820px}\nsection {margin-bottom: 64px}\nh1 {font: 800 40px/1.15 \"Georgia\", \"Songti SC\", serif;color: var(--accent);letter-spacing: -0.02em;margin-bottom: 12px}\nh2 {font: 700 28px/1.25 \"Georgia\", \"Songti SC\", serif;color: var(--ink);margin: 32px 0 16px;padding-bottom: 8px;border-bottom: 2px solid var(--ink)}\nh3 {font: 600 20px/1.35 \"Georgia\", \"Songti SC\", serif;color: var(--accent);margin: 24px 0 12px}\np {margin-bottom: 14px;text-align: justify}\n.lede {font-size: 18px;color: var(--accent-dim);margin: 16px 0 32px}\nul.bulleted {margin-left: 1.5em;margin-bottom: 14px}\nul.bulleted li {margin-bottom: 6px}\n\n/* Hero timeline */\n.timeline {position: relative;padding-left: 28px;margin: 32px 0}\n.timeline::before {content: '';position: absolute;left: 7px;top: 6px;bottom: 6px;width: 2px;background: var(--accent)}\n.timeline .point {position: relative;margin-bottom: 24px}\n.timeline .point::before {content: '';position: absolute;left: -28px;top: 8px;width: 12px;height: 12px;background: var(--paper);border: 2px solid var(--accent);border-radius: 50%}\n.timeline .stamp {font: 700 13px/1 \"Georgia\", monospace;color: var(--accent);letter-spacing: 0.1em;margin-bottom: 4px}\n.timeline .line {font-size: 17px;color: var(--ink)}\n\n/* Cards */\n.card {border: 2px solid var(--ink);background: var(--paper);padding: 20px 22px;margin-bottom: 18px;box-shadow: var(--shadow)}\n.card.featured {border-color: var(--accent);background: #fff9ec}\n.card h3 {margin-top: 0}\n.card .price {font: 800 22px/1 \"Georgia\", serif;color: var(--accent);margin: 8px 0}\n.card ul {list-style: '— ';margin-left: 1.2em;margin-top: 8px}\n.card ul li {margin-bottom: 4px}\n\n/* Stair plans */\n.stair {display: flex;flex-direction: column;gap: 0}\n.stair .step {margin-left: 0;width: 100%}\n.stair .step:nth-child(2) {margin-left: 40px;width: calc(100% - 40px)}\n.stair .step:nth-child(3) {margin-left: 80px;width: calc(100% - 80px)}\n.stair .badge {display: inline-block;background: var(--accent);color: #f8f3e7;font-size: 12px;padding: 2px 10px;margin-bottom: 8px;letter-spacing: 0.1em}\n\n/* FAQ groups */\n.faq-group {margin-bottom: 28px}\n.faq-group h3 {font: 700 18px/1 \"Georgia\", \"Songti SC\", serif;color: var(--accent);border-left: 4px solid var(--accent);padding-left: 10px;margin-bottom: 14px}\n.faq-item {border: 1px dashed var(--hair);background: var(--paper);padding: 14px 18px;margin-bottom: 10px}\n.faq-item .q {font-weight: 700;color: var(--ink);margin-bottom: 6px}\n.faq-item .q::before {content: '问 ';color: var(--accent)}\n.faq-item .a::before {content: '答 ';color: var(--accent)}\n\nfooter {border-top: 2px solid var(--ink);padding: 24px 0 0;margin-top: 48px;font-size: 14px;color: var(--accent-dim)}\n@media (max-width: 760px) {\n  body {flex-direction: column}\n  nav.catalog {position: static;flex: none;height: auto;width: 100%;writing-mode: horizontal-tb;padding: 14px;border-right: none;border-bottom: 2px solid var(--accent);overflow-x: auto}\n  nav.catalog ul {flex-direction: row;gap: 18px;padding: 0}\n  main {padding: 32px 20px}\n  .stair .step, .stair .step:nth-child(2), .stair .step:nth-child(3) {margin-left: 0;width: 100%}\n}\n</style><nav class=\"catalog\" aria-label=\"目录\">\n  <ul>\n    <li><a href=\"#hero\">缘起</a></li>\n    <li><a href=\"#story\">故事</a></li>\n    <li><a href=\"#plans\">套餐</a></li>\n    <li><a href=\"#use\">怎么用</a></li>\n    <li><a href=\"#faq\">问答</a></li>\n    <li><a href=\"#end\">话别</a></li>\n  </ul>\n</nav>\n\n<main>\n\n<section id=\"hero\">\n  <p class=\"lede\">嘿，先坐下喝杯热的。这里是机场。</p>\n  <h1>机场｜陪你慢慢走远</h1>\n  <p>2018年冬夜，我们几个朋友窝在一间老房子的二楼，盯着屏幕上一行行转发的报文。窗外是北方干冷的风，屋里只有一台嗡嗡响的旧服务器。那时候还没想过要做什么\"品牌\"，只是想给自己和身边人留一个能安静上网的地方。</p>\n  <p>后来人多了，路也长了。我们给这个地方起了个最朴素的名字——机场。因为它真的就像一个出发的地方：你带着自己的行李登机，我们负责把你稳稳送到你想去的那一边。</p>\n\n  <div class=\"timeline\">\n    <div class=\"point\">\n      <div class=\"stamp\">2018 · 冬</div>\n      <div class=\"line\">第一台机器上线，只有八个朋友在用。</div>\n    </div>\n    <div class=\"point\">\n      <div class=\"stamp\">2019 · 春</div>\n      <div class=\"line\">第一次给陌生人开通账户，紧张得手抖。</div>\n    </div>\n    <div class=\"point\">\n      <div class=\"stamp\">2020 · 长 夏</div>\n      <div class=\"line\">海外节点第一次破两位数，我们偷偷庆祝了一晚。</div>\n    </div>\n    <div class=\"point\">\n      <div class=\"stamp\">2022 · 秋</div>\n      <div class=\"line\">开始试着做专线，一个人一个人地解释什么是 IPLC。</div>\n    </div>\n    <div class=\"point\">\n      <div class=\"stamp\">现在</div>\n      <div class=\"line\">你读到这里。我们还在，谢谢你愿意听。</div>\n    </div>\n  </div>\n</section>\n\n<section id=\"story\">\n  <h2>为什么叫机场</h2>\n  <p>朋友第一次听到这名字，笑着说这也太普通了。我们倒觉得，普通挺好。机场不喊口号，不炫耀，不承诺你要去的天堂有多美。它只是认真检查你的行李，确认跑道是干净的，然后把一架飞机稳稳地推上天空。</p>\n  <p>我们做的事情也差不多。你交给我们的，是一段段想被认真对待的浏览记录、视频通话、深夜的稿件和清晨的邮件。我们收下，然后用我们这双不那么光鲜、但还算稳的手，把它们送到该去的地方。</p>\n  <p>有人问，你们是不是那种号称\"极速\"\"秒开\"\"全球加速\"的服务？老实说，我们不太会说这些词。网速能不能让你流畅看完一集剧，能，这就够了。我们更在意的是：凌晨三点你卡住了，有没有人理你；续费的时候，价格是不是还是你第一次见到时的那个数；用了三年之后，你还会不会推荐给朋友。</p>\n</section>\n\n<section id=\"plans\">\n  <h2>三张登机牌</h2>\n  <p>我们只做三档。不是因为懒，是因为我们觉得，把三件事讲清楚，比列三十个选项更负责任。每张牌的名字都很朴素，权益也都写在明面上，不藏不绕。</p>\n\n  <div class=\"stair\">\n\n    <article class=\"card step\">\n      <h3>基础版</h3>\n      <div class=\"price\">¥15 / 月</div>\n      <p>按年付仅需 ¥150 / 年，相当于省下两个月。</p>\n      <ul>\n        <li>每月 100GB 流量，够日常看剧刷页</li>\n        <li>3 台设备同时在线，手机平板电脑随意</li>\n        <li>解锁基础流媒体，热门地区都能打开</li>\n        <li>普通线路节点池，不挑时候就够用</li>\n      </ul>\n    </article>\n\n    <article class=\"card step featured\">\n      <span class=\"badge\">朋 友 们 最 常 选</span>\n      <h3>旗舰版</h3>\n      <div class=\"price\">¥35 / 月</div>\n      <p>按年付仅需 ¥350 / 年，也是我们最推荐的一档。</p>\n      <ul>\n        <li>每月 300GB 流量，全家一起用也从容</li>\n        <li>5 台设备同时在线，朋友来借也不挤</li>\n        <li>全节点原生流媒体解锁，不用再切来切去</li>\n        <li>IPLC 专线游戏加速优化，延迟稳一点，心情好一点</li>\n        <li>7×24 优先工单，半夜写邮件也能很快回</li>\n      </ul>\n    </article>\n\n    <article class=\"card step\">\n      <h3>团队版</h3>\n      <div class=\"price\">¥85 / 月</div>\n      <p>按年付仅需 ¥850 / 年，适合三五人的小工作室。</p>\n      <ul>\n        <li>每月 1000GB 流量，上传下载都不用心疼</li>\n        <li>20 台设备同时在线，人多人少都安排得下</li>\n        <li>VIP 专属高带宽节点，人多的时候也不挤</li>\n        <li>支持企业定制路由，想怎么走可以商量</li>\n        <li>专属客户经理，一个微信直接找得到人</li>\n      </ul>\n    </article>\n\n  </div>\n\n  <p>三档价格都含税，没有隐藏费用。续费时还是这个数，不会偷偷涨。如果你中途想升级，差价按天算，公平就行。</p>\n</section>\n\n<section id=\"use\">\n  <h2>怎么用</h2>\n  <p>其实很简单，但第一次总会犯怵，所以我们把步骤写在这里，像写给一个刚拿到新手机的朋友。</p>\n\n  <h3>第一步：选一张登机牌</h3>\n  <p>在上面三档里挑一个适合你的。不确定的话，先从旗舰版开始，大多数人都觉得刚刚好。用不完也不用心疼，流量可以结转到下个月。</p>\n\n  <h3>第二步：拿到你的账户</h3>\n  <p>开通后我们会把订阅地址发到你留下的邮箱。那个地址长长的一串，别慌，它是你的专属钥匙，不要转给别人。</p>\n\n  <h3>第三步：装一个小工具</h3>\n  <p>我们用的是通用的协议，市面上常见的小猫咪、Clash、v2rayN 都能连。选一个顺眼的装上，把订阅地址粘进去，点一下更新，节点列表就出来了。</p>\n\n  <h3>第四步：选一个近的地方</h3>\n  <p>列表里会有很多地名，选一个离你近、延迟低的就行。第一次连不上很正常，换个节点再试一次。实在连不上，找我们，工单里说一声，会有人理你。</p>\n\n  <h3>第五步：打开你想去的页面</h3>\n  <p>浏览器输地址，回车，等几秒。如果出来了，就成了。如果卡住，回头看看第四步。我们在这儿，不是为了让你成为网络工程师，只是陪你把第一步走稳。</p>\n</section>\n\n<section id=\"faq\">\n  <h2>你可能想问的</h2>\n  <p>下面这些问题，是这几年我们被问过最多的。挑着答了，没答到的，随时来找我们。</p>\n\n  <div class=\"faq-group\">\n    <h3>关于用</h3>\n    <article class=\"faq-item\">\n      <div class=\"q\">我一点都不懂技术，能用吗？</div>\n      <div class=\"a\">能。我们见过很多第一次接触的朋友，装一个小工具、粘一个地址，五分钟就搞定。真卡住了，写工单，我们会一步一步带你走。</div>\n    </article>\n    <article class=\"faq-item\">\n      <div class=\"q\">手机和电脑能一起用吗？</div>\n      <div class=\"a\">可以。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，全平台都支持，iOS、安卓、Windows、Mac 都行。</div>\n    </article>\n    <article class=\"faq-item\">\n      <div class=\"q\">流量用完了怎么办？</div>\n      <div class=\"a\">可以加购流量包，也可以等下个月自动重置。基础版和旗舰版的未用完流量会结转到下个月，团队版按月清零。</div>\n    </article>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>关于稳</h3>\n    <article class=\"faq-item\">\n      <div class=\"q\">会不会经常断？</div>\n      <div class=\"a\">我们不敢说永远不会断，但我们敢说：断了我们会第一时间修，并且告诉你为什么断、什么时候好。沉默比断线更让人难受，我们不会沉默。</div>\n    </article>\n    <article class=\"faq-item\">\n      <div class=\"q\">高峰时段会不会卡？</div>\n      <div class=\"a\">普通线路在晚高峰可能慢一些，旗舰版和团队版走的是专线和 VIP 节点，会稳很多。如果你对延迟特别敏感，建议直接上旗舰版。</div>\n    </article>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>关于钱</h3>\n    <article class=\"faq-item\">\n      <div class=\"q\">能不能试用？</div>\n      <div class=\"a\">我们没有正式试用，但开通后 7 天内如果不满意，全额退给你，不用解释原因。我们相信你试过就知道值不值。</div>\n    </article>\n    <article class=\"faq-item\">\n      <div class=\"q\">续费会涨价吗？</div>\n      <div class=\"a\">不会。你第一次看到的价，就是你以后续费的价。哪怕我们整体调价了，老用户也按原来的价续，这是我们的承诺。</div>\n    </article>\n    <article class=\"faq-item\">\n      <div class=\"q\">支持哪些支付方式？</div>\n      <div class=\"a\">支付宝、微信、信用卡都可以。海外朋友可以用 PayPal，具体在结算页面会有选项。</div>\n    </article>\n  </div>\n</section>\n\n<section id=\"end\">\n  <h2>最后想说</h2>\n  <p>我们不是最快的，也不是最大的，更不是最便宜的。我们只是一群还在认真做这件事的人，希望你在用的时候，能感觉到屏幕另一边有人在听。</p>\n  <p>如果有一天你觉得这儿还不错，愿意告诉身边一个同样需要的朋友，我们会很高兴。但更重要的是，你自己用得顺心。</p>\n  <p>好了，不啰嗦了。愿你的每一次连接，都像推开一扇窗。</p>\n</section>\n\n<footer>\n  <p>机场 · 自 2018 年冬夜起，陪你慢慢走远。</p>\n  <p>本页面为品牌介绍，套餐内容以账户后台实际为准。如有疑问，工单永远是第一站。</p>\n</footer>\n\n</main>",
+          "hash": "030297b8b6db88723dd7082adf646d2ad716702f75cab32224c5e51f1427becf",
+          "seo": {
+            "title": "机场｜陪你慢慢走远",
+            "keywords": "机场,科学上网,翻墙,代理,节点,套餐,流媒体,IPLC专线",
+            "description": "机场自2018年冬夜起步，陪你慢慢走远。酒红与象牙白之间，记录每一次转发、每一次卡顿修复、每一次陪你跨海的温暖。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "277",
+            "hero": "6 纵向时间线引入",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ruiliyimei.cn",
+    "host": "p-305abec9f5.ruiliyimei.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c9686a385b8e3f741e838000e0e626c282203084771ee2542652e650bf3dcbaf",
+    "sitemap.xml": "3264b0b54886d6a0e4bd17c50f0b15120531e431f317fc00480d645e3051ad2f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4f171cc794de59e29046de34634df9e72f88899167d772a6cc39bde3ad8f7f6f",
+    "robots.txt": "a0e8ca6f1f78716bdedaa13d33948039105012232edc3fce2ac8fd1e9f45b9fe",
+    "7c88af957f6693dfd62e73dcd0a2f8d9.txt": "85f39abe0056e1a52a14a5ec61ccf334181ede5229a6856db4595c0e4a3eb1d7"
+  },
+  "revision": "4721e5e66b4e7a4d17ee0ebe0df4123bd76f656e8c1586e87d071500b08e6d81"
+}
